@@ -15,7 +15,7 @@
 - **`Google Login`**
 - `Successfully popup Screen`
 
-![Frame 28](https://user-images.githubusercontent.com/70564915/106382408-749c6800-63e5-11eb-8a80-44d356fd462a.jpg)
+![Frame 28](https://user-images.githubusercontent.com/70564915/106383000-225d4600-63e9-11eb-93f9-391b1e6201bd.jpg)
 
 # Firebase
 
