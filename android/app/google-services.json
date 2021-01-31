@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424129999779",
+    "firebase_url": "https://bm-basket.firebaseio.com",
+    "project_id": "bm-basket",
+    "storage_bucket": "bm-basket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424129999779:android:8272323c0d6e3603162016",
+        "android_client_info": {
+          "package_name": "com.vaibhavagarwal.bmbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424129999779-tlhl57svfqh1em1ng3nn9o7cca4rrnlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSsJPMSX5xToDM1r9vWdLkmYYvp65vso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424129999779-tlhl57svfqh1em1ng3nn9o7cca4rrnlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
